@@ -26,9 +26,23 @@ The objective is to understand how to structure a database, define relationships
 - Data Insertion and Deletion
 - Data Retrieval and Analysis
 
-## Cloning the Repository
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+## ## How to Use
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/1vig/netflix-data-analysis.git
+    cd netflix-data-analysis
+    ```
+
+2. **Install the required dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the Jupyter Notebooks** to explore the data, build models, and visualize results:
+    ```bash
+    MsSQL Server
+    ```
 
 ## License
 This project is licensed under the MIT License.
