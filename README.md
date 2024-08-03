@@ -26,5 +26,9 @@ The objective is to understand how to structure a database, define relationships
 - Data Insertion and Deletion
 - Data Retrieval and Analysis
 
+## Cloning the Repository
+git clone https://github.com/yourusername/your-repository.git
+cd your-repository
+
 ## License
 This project is licensed under the MIT License.
